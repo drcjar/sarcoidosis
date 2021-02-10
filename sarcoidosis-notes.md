@@ -17,7 +17,7 @@ Sarcoidosis is a multisystem granulomatous disorder of unknown aetiology charact
 # aetiology
 
 - not well understood, likely interaction of genetic, immunologic, and environmental factors
-- ?genetics - familial clustering
+- ?genetics - familial clustering; first-degree relatives are at increased risk for developing sarcoidosis (odds ratio [OR] 4.7, 95% CI 2.3-9.7)
 - ?occupation - there is age-specific and sex-specific clustering; certain exposures e.g beryllium can cause granulomas similar to sarcoid granulomas
 - ?infectious or environmental cause - there is seasonal clustering (more common winter, early spring); apparant transmission following lung, cardiac, and bone mx transplantation has occured
 
