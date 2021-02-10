@@ -32,6 +32,18 @@ Sarcoidosis is a multisystem granulomatous disorder of unknown aetiology charact
 - TCR on CD4+ t-helper cells (predominant lymphocyte) could hold key to identifying antigen/understanding disease since they recognise processed antigen presented on MHCII complex. Enormous diversity of TCR acquired through somatic rearrangement of variable (V), diversity (D), and joining (J) segments togetehr with random addition and/or deletion of N-region nucleotides to form unique VDJ region. Studies of the TCR Vbeta repertoire in patients with active sarcoidosis has demonstrated bias in certain TCR Vbeta subsets, including Vbeta2, Vbeta8, Vbeta12, and Valpha2.3. (does it vary with antigen or with HLA class type? we don't know)
 - Genome wide linkage and association studies have identified genes that may be associated with increased susceptibility to sarcoidosis, such as butyrophilin-like 2 gene (BTNL2), annexin A11 (ANXA11), and angiotensin converting enzyme variants, although the associations vary across populations.
 
+# clinical features
+
+presentation depends on systems disease affect (90% involve lung, isolated BHL most common)
+- node-limited disease is often asymptomatic; however, some present with systemic symptoms (fevers, night sweats, fatigue, weight loss, diffuse myalgia)
+- BHL may accompany sarcoid uveitis, or parotitis
+- Logren's syndrome consists of BHL, erythema nodosum and/or bilateral ankle arthritis
+- parenchymal sardcoidosis may present with dyspnoea and cough
+- non-cardiac chest pain is often characterised by chest tightness or pleuritic discomfort
+- cough and exertional dyspnoea common in advanced sarcoidosis
+- accuarate 
+
+
 
 
 
