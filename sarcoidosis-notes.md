@@ -72,9 +72,12 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 - opthalmic review if any occular symptoms
 - neurology review  if any central or peripheral nervous symptoms
 - dematology reveiw if any skin lesions
+- approx 40% of patients spontaenously remit in first 6/12 (if logren syndrome 70-80% remit within 2 years)
 - approx 30% of sarcoid patients have clinically significant major organ involvment, long term mortality due to sarcoidosis is approx 20% for these (so overall approx 6%)
 - pulmonary invovlement (ILD and/or pulmonary hypertension) is the cause in 70% sarcoidosis attributed deaths, rest cardiac
-- 
+- steroids only if there is 1. potential danger of a fatal outcome or permenant disability 2. unacceptable loss of quality of life
+-- consider steroids when DLco < 65% or 15% drop from baseline, FVC < 70% or if 10% drop from baseline
+-- typical regimen 20-40mg od for 4-6 weeks, tapering dose thereafter e.g 5mg every 2/52 to maintainance e.g 5-10mg/day (consider bone protection)
 
 ## references 
 
