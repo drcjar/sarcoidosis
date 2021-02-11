@@ -53,7 +53,7 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 
 ## investigations
 
-- bloods: fbc, u&e, lfts, calcium, ace, vitamin d (monitor regularly if supplement)
+- bloods: fbc, u&e, lfts, calcium, ace, vitamin d (monitor regularly if supplement) (iron studies and tfts too if pt fatigued)
 - ecg (+ echo - want TR velocity if suspect PH, 24h tape, CMR if suspect cardiac sarcoidosis)
 - 24-hour urinary calcium estimation in those with history of renal calculi
 - pfts, gas exchange
@@ -66,21 +66,40 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 
 ## management and prognosis
 
+- should signpost [patient information resources](https://www.blf.org.uk/support-for-you/sarcoidosis/what-is-it)
+
 - ask about fatigue, consider using Fatigue Assessment Scale
 - ask about cardiac symptoms: palpitation, chest pain, pre-syncope/syncope (investigate, echo and 24h tape at least)
+
 - consider cardiac sarcoidosis and pulmonary hypertension (both approx 5-10% of gen sarcoid pop), consider in pt with breahtlessness disproportionate to PFTs 
+
 - opthalmic review if any occular symptoms
 - neurology review  if any central or peripheral nervous symptoms
 - dematology reveiw if any skin lesions
-- approx 40% of patients spontaenously remit in first 6/12 (if logren syndrome 70-80% remit within 2 years)
-- approx 30% of sarcoid patients have clinically significant major organ involvment, long term mortality due to sarcoidosis is approx 20% for these (so overall approx 6%)
-- pulmonary invovlement (ILD and/or pulmonary hypertension) is the cause in 70% sarcoidosis attributed deaths, rest cardiac
+
 - steroids only if there is 1. potential danger of a fatal outcome or permenant disability 2. unacceptable loss of quality of life
 -- consider steroids when DLco < 65% or 15% drop from baseline, FVC < 70% or if 10% drop from baseline
 -- typical regimen 20-40mg od for 4-6 weeks, tapering dose thereafter e.g 5mg every 2/52 to maintainance e.g 5-10mg/day (consider bone protection)
+-- trial withdrawal of steroids after 6-12 months of controlled disease, risk of relapse 13-75%, most within a year (reduce from 5mg od by 1mg every 2 weeks to 1mg od, then 1mg od alternate days for 2 weeks).
+- second-line immunosupression if 1. Progression of pulmonary disease or unacceptable symptom burden despite adequate steroid therapy. 2. Intolerable steroid side effects. 3. Inability to taper steroids below 10-15mg/day 4. Prescence of major comorbities likely to be adversely affected by steroid therapy (severe obesity, diabetes, osteoporisis, hypetension) 5. Strong patient aversion to use of steroids, may occasionally use second-line agent as initial therapy in this circumstance
+-- methotrexate is most commonly used, typically initiate at 5-10mg per week and increment every two weeks to achieve target of 15-20mg per week, give folic acid 5mg weekly to reduce incidence of myelosupression (other options include mycophenolate, leflunomide, and azathioprine). (viral hepatitis screen necessary as heb B or C infection preclude)
+- biologics and are third line ageents 
+- lung transplant, consider referral significant acute (e.g 10% over 6/12) drop in FVC or DLco is association with respiratory failure
+
+- management of fatigue, look for non-sarcoid cause, generic advice
+- offer help with smoking cessation, anxiety, depression
+
+- monitoring to 1. observe spontaenous resolution in recently diagnosed cases 2. look for progression or confirm improvement or stability in untreated patients 3. determine the effect of anti-inflammatory treatment 4. look for relapse in patients who are tapering or have discontinued therapy
+
+- patients with Lofgren's syndrome or stage I chest x-ray (stage 0 normal, I enlarged nodes only, II enlarged nodes and parenchymal changes, III paranchymal changes without nodes or fibrosis, IV fibrosis) can be discharged from medical care once resolution confirmed, otherwise follow up 6 monthly or annually for stage II-IV, 3-6 monthly for significant extrapulmonary disease or steroid withdrawal.
+
+- approx 40% of patients spontaenously remit in first 6/12 (if logren syndrome 70-80% remit within 2 years)
+- approx 30% of sarcoid patients have clinically significant major organ involvment, long term mortality due to sarcoidosis is approx 20% for these (so overall approx 6%)
+- pulmonary invovlement (ILD and/or pulmonary hypertension) is the cause in 70% sarcoidosis attributed deaths, rest cardiac
+
 
 ## references 
 
-
+https://www.brit-thoracic.org.uk/quality-improvement/clinical-statements/sarcoidosis/
 
 
