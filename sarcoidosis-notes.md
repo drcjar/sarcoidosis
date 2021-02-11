@@ -34,6 +34,8 @@ Sarcoidosis is a multisystem granulomatous disorder of unknown aetiology charact
 
 # clinical features
 
+## history
+
 presentation depends on systems disease affect (90% involve lung, isolated BHL most common)
 - node-limited disease is often asymptomatic; however, some present with systemic symptoms (fevers, night sweats, fatigue, weight loss, diffuse myalgia)
 - BHL may accompany sarcoid uveitis, or parotitis
@@ -43,7 +45,15 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 - cough and exertional dyspnoea common in advanced sarcoidosis
 - accuarate 
 
+## examination
 
+## investigations
+
+## diagnosis
+
+## management and prognosis
+
+## references 
 
 
 
