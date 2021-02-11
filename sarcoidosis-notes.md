@@ -43,15 +43,30 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 - parenchymal sardcoidosis may present with dyspnoea and cough
 - non-cardiac chest pain is often characterised by chest tightness or pleuritic discomfort
 - cough and exertional dyspnoea common in advanced sarcoidosis
-- accuarate 
+- accuarate exposure adn occupational hisotry to exclude conditions that may present in a similar manner including berylliosis (eg, those working in the mining, quarrying or stonemasonry industry).
 
-## examination
+## examination 
+
+- usually normal, occasional wheeze and stridor
+- classical 'end-inspiratory' crackles are atypical but can occur if fibrosis is present
+- digital clubbing is uncommon
 
 ## investigations
+
+- bloods: fbc, u&e, lfts, calcium, ace, vitamin d (monitor regularly if supplement)
+- ecg 
+- 24-hour urinary calcium estimation in those with history of renal calculi
+- pfts, gas exchange
 
 ## diagnosis
 
 ## management and prognosis
+
+- ask about fatigue, consider using Fatigue Assessment Scale
+- opthalmic review if any occular symptoms
+- neurology review  if any central or peripheral nervous symptoms
+- dematology reveiw if any skin lesions
+
 
 ## references 
 
