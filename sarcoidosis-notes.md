@@ -54,19 +54,27 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 ## investigations
 
 - bloods: fbc, u&e, lfts, calcium, ace, vitamin d (monitor regularly if supplement)
-- ecg 
+- ecg (+ echo - want TR velocity if suspect PH, 24h tape, CMR if suspect cardiac sarcoidosis)
 - 24-hour urinary calcium estimation in those with history of renal calculi
 - pfts, gas exchange
+- CT chest
+- EBUS-TBNA (pooled sensitiviy approx 80%, non-caseating granuloma, TB culture and PCR -ive) + BAL ('high volume' wash i.e 100-300ml to distal airspace, elevated lymphocyte count 15-25%, >50% suggests HP)
 
 ## diagnosis
+
+- can make confident clinical diagnosis if typical presentation and imaging (i.e Lofgrens syndrome), otherwise HRCT and MDT discussion +/- EBUS-TBNA
 
 ## management and prognosis
 
 - ask about fatigue, consider using Fatigue Assessment Scale
+- ask about cardiac symptoms: palpitation, chest pain, pre-syncope/syncope (investigate, echo and 24h tape at least)
+- consider cardiac sarcoidosis and pulmonary hypertension (both approx 5-10% of gen sarcoid pop), consider in pt with breahtlessness disproportionate to PFTs 
 - opthalmic review if any occular symptoms
 - neurology review  if any central or peripheral nervous symptoms
 - dematology reveiw if any skin lesions
-
+- approx 30% of sarcoid patients have clinically significant major organ involvment, long term mortality due to sarcoidosis is approx 20% for these (so overall approx 6%)
+- pulmonary invovlement (ILD and/or pulmonary hypertension) is the cause in 70% sarcoidosis attributed deaths, rest cardiac
+- 
 
 ## references 
 
