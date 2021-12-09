@@ -97,6 +97,9 @@ presentation depends on systems disease affect (90% involve lung, isolated BHL m
 - approx 30% of sarcoid patients have clinically significant major organ involvment, long term mortality due to sarcoidosis is approx 20% for these (so overall approx 6%)
 - pulmonary invovlement (ILD and/or pulmonary hypertension) is the cause in 70% sarcoidosis attributed deaths, rest cardiac
 
+## societies
+
+https://www.wasog.org/
 
 ## references 
 
